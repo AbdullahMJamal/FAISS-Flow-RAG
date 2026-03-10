@@ -2,7 +2,7 @@ A professional `README.md` is the "front door" of your project. It explains the 
 
 ---
 
-# Advanced RAG Pipeline with FAISS and Reciprocal Rank Fusion (RRF)
+# RAG Pipeline with FAISS and Reciprocal Rank Fusion (RRF)
 
 This repository contains a modular, production-grade **Retrieval-Augmented Generation (RAG)** pipeline designed for high-accuracy document intelligence. Unlike basic RAG setups, this engine implements advanced retrieval strategies to ensure the AI provides precise, context-aware answers from complex datasets.
 
